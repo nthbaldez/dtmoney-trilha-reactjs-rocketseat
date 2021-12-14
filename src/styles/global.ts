@@ -13,6 +13,7 @@ export const GlobalStyle = createGlobalStyle`
     --text-body: #969CB2;
 
     --shape: #FFFFFF;
+    --green: #33cc95;
   }
   
   * {
